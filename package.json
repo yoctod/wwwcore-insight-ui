@@ -38,7 +38,7 @@
     "wwwcore",
     "front-end"
   ],
-  "wwwcoreNode": "wwwcore-node",
+  "bitcoreNode": "wwwcore-node",
   "dependencies": {},
   "devDependencies": {
     "bower": "~1.2.8",
